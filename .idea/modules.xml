@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-model/core-model.iml" filepath="$PROJECT_DIR$/core-model/core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka-server/euraka-server.iml" filepath="$PROJECT_DIR$/euraka-server/euraka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euraka-server-cluster-2/euraka-server-cluster-2.iml" filepath="$PROJECT_DIR$/euraka-server-cluster-2/euraka-server-cluster-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatWay-server/gatWay-server.iml" filepath="$PROJECT_DIR$/gatWay-server/gatWay-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-server/message-server.iml" filepath="$PROJECT_DIR$/message-server/message-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-server/order-server.iml" filepath="$PROJECT_DIR$/order-server/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-server/product-server.iml" filepath="$PROJECT_DIR$/product-server/product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-server/user-server.iml" filepath="$PROJECT_DIR$/user-server/user-server.iml" />
+    </modules>
+  </component>
+</project>
